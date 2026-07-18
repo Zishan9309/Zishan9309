@@ -101,6 +101,39 @@ Sales analytics dashboard for an e-commerce dataset — revenue trends, product 
 
 ---
 
+### 👩‍👧‍👦 [Anganwadi Support App](https://github.com/Zishan9309/Anganwadi_Support)
+> **React Native · Node.js · MongoDB · Groq AI (Llama-3) · TypeScript**
+
+A full-stack mobile application to digitize and empower Anganwadi Workers (AWWs) across India — bridging government health data with on-ground fieldwork.
+
+- 📋 Digital student enrollment with health record tracking (weight, height, nutrition status)
+- 💉 SMS-based vaccination reminders with parent verification link — auto-updates database when parent confirms
+- 🤖 AI chatbot powered by Llama-3 (Groq API) — answers queries about Poshan Abhiyaan & PMMVY in Hindi & English
+- 📸 Camera integration with cloud image reporting for center activity documentation
+
+![React Native](https://img.shields.io/badge/React%20Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+
+---
+
+### 🗂️ [Employee Task Management System](https://github.com/Zishan9309/Task-Management)
+> **PHP · JavaScript · CSS · Web Application**
+
+A web-based employee task management system to assign, track, and manage tasks across teams.
+
+- Task assignment and status tracking for employees
+- Role-based access for managers and team members
+- Clean dashboard UI for monitoring task progress
+
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+---
+
+
 🏆 Achievements & Certifications
 
 <div align="center">
