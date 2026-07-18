@@ -104,8 +104,23 @@ Sales analytics dashboard for an e-commerce dataset — revenue trends, product 
 🏆 Achievements & Certifications
 
 <div align="center">
-🎓 Certification🏢 Issuer📅 YearVirtual Internship 6.0 — Python DeveloperInfosys Springboard2026B.Tech Computer Science & EngineeringMGM's College of Engineering, Nanded2022-26
-
+<table>
+  <tr>
+    <th>🎓 Certification</th>
+    <th>🏢 Issuer</th>
+    <th>📅 Year</th>
+  </tr>
+  <tr>
+    <td>Virtual Internship 6.0 — Python Developer</td>
+    <td>Infosys Springboard</td>
+    <td>2026</td>
+  </tr>
+  <tr>
+    <td>B.Tech Computer Science & Engineering</td>
+    <td>MGM's College of Engineering, Nanded</td>
+    <td>2022-26</td>
+  </tr>
+</table>
 </div>
 
 📈 Contribution Activity
