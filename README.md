@@ -106,6 +106,8 @@ Sales analytics dashboard for an e-commerce dataset — revenue trends, product 
 <div align="center">
 🎓 Certification🏢 Issuer📅 YearVirtual Internship 6.0 — Python DeveloperInfosys Springboard2026B.Tech Computer Science & EngineeringMGM's College of Engineering, Nanded2022-26
 
+</div>
+
 📈 Contribution Activity
 
 <div align="center">
